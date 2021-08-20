@@ -2,7 +2,7 @@
 - 👀 I’m interested in everyhting about Technology, Software Development and Telecommunications. This, in order to improve the planet and the quality of life of many people.
 - 🌱 I’m currently learning about Java in depth.
 - 💞️ I’m looking to improve my skills as much as I can, and also to gain a lot of experience in the world of software development and programming.
-- 📫 My email is nmcobo.jaramillo@gmai.com
+- 📫 My email is nmcobo.jaramillo@gmail.com
 
 <!---
 nmcoboj/nmcoboj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
