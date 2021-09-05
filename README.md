@@ -4,8 +4,10 @@
 - 💞️ I’m looking to improve my skills as much as I can, and also to gain a lot of experience in the world of software development and programming.
 - 📫 My email is nmcobo.jaramillo@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmcoboj&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmcoboj&layout=compact)](https://github.com/nmcoboj/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balechon&layout=compact)](https://github.com/balechon/github-readme-stats)
 
 
 <!---
