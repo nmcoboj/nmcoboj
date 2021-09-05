@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmcoboj&show_icons=true&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmcoboj&layout=compact)](https://github.com/nmcoboj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmcoboj&layout=compact&langs_count=8)](https://github.com/nmcoboj/github-readme-stats)
 
 
 <!---
